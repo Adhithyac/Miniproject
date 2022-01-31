@@ -1,2 +1,0 @@
-# Miniproject
-Vaccination Registration Managment 
