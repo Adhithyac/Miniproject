@@ -1,0 +1,2 @@
+# Miniproject
+Student Attendance Managment
