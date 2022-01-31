@@ -1,2 +1,2 @@
 # Miniproject
-Student Attendance Managment
+Vaccination Registration Managment 
